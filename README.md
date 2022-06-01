@@ -15,10 +15,10 @@ colorful_text:log(
     { "Plain color logging..", true },
     { { 255, 150, 0 }, "Single color logging..", true },
     { { 255, 33, 137 }, { 161, 80, 240 }, "Blended color logging..", true }
-);```
+);
 
 
-```colorful_text:lerp
+colorful_text:lerp
 Takes in either (table, table, number) or (number, number, number.)
 Returns a lerped value.
 
