@@ -1,1 +1,1 @@
-# -library-colorful-text
+# [library] colorful text
