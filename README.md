@@ -17,6 +17,7 @@ colorful_text:log(
     { { 255, 33, 137 }, { 161, 80, 240 }, "Blended color logging..", true }
 );```
 
+
 ```colorful_text:lerp
 Takes in either (table, table, number) or (number, number, number.)
 Returns a lerped value.
@@ -34,5 +35,4 @@ Returns the string with hex within.
 
 colorful_text:log
 Takes in { { r, g, b }, string, boolean? }, { { r, g, b }, { r, g, b }, string, boolean? }, { string, boolean? }.
-The boolean must be at the end of the table, and only needs to be there if you are wanting to newline after the text.
-```
+The boolean must be at the end of the table, and only needs to be there if you are wanting to newline after the text.```
