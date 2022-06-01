@@ -3,7 +3,8 @@
 
 # Usage:
 This is the code for the example console logs.
-```client_log("Default logging..");
+```
+client_log("Default logging..");
 
 colorful_text:log(
     { { 181, 230, 29 }, "[gamesense] " },
